@@ -1,3 +1,7 @@
+NAME: GOPIKA A
+
+REG NO: 212224100017
+
 # EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
@@ -26,12 +30,21 @@ PROCEDURE:
 2. The Regulated power supply voltage is increased in steps.
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
-4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+ 
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
+
+Line Regulation
+
+![WhatsApp Image 2025-10-26 at 12 05 09_a296e963](https://github.com/user-attachments/assets/1ab2fac6-3b84-41fc-b554-c06619fccb73)
+
+Load Regulation
+
+<img width="1031" height="616" alt="image" src="https://github.com/user-attachments/assets/9e7fb96d-40c9-4626-9bb5-0435210726fc" />
 
 PRECAUTIONS:
 
