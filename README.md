@@ -36,6 +36,15 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+Line Regulation
+<img width="1186" height="952" alt="image" src="https://github.com/user-attachments/assets/010d16cf-0f03-49ad-8fde-8a89d4351fc2" />
+
+
+Load Regulation
+<img width="1086" height="860" alt="image" src="https://github.com/user-attachments/assets/a972cfa9-c4de-4a8d-abef-2f7a09562a70" />
+
+REGULATION CHARACTERISTICS:
+
 V-I & REGULATION CHARACTERISTICS:
 
 Line Regulation
